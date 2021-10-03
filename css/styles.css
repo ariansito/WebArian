@@ -1,0 +1,74 @@
+*{
+   background: url(../img/fondo.gif);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   color: rgb(255, 255, 255);
+   list-style: none;
+   font-family:sans-serif;
+   text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+}
+.yoinfo img{
+   width: 200px;  
+}
+.yoinfo{
+   border: rgb(255, 255, 255) solid 1px;
+   padding: 10px;
+   border-left: none;
+   border-right: none;
+}
+.img{
+   width: 30%;
+   height: 20%;
+}
+header{
+   text-align: center;
+   padding: 20px;
+   border:solid white 2px;
+   border-left: none;
+   border-right:none ;
+   margin: 50px ;
+   display:block;
+}
+.espacio{
+   height: 500px;
+}
+.titulo{
+   font-size: 20px;
+   padding: 10px;
+}
+marquee {
+      height: 40px;   
+      color: rgb(106, 255, 77);
+}
+.menu{
+   margin: 10px;
+   text-decoration: none;
+}
+.img{
+   width: 20%;
+   height: 20%;
+}
+.infoexp h2{
+   padding: 10px;
+}
+footer{
+   text-align: center;
+   border-top: white 1px solid;
+}
+footer li{
+   padding: 5px;
+}
+.imgyo{
+   border: solid white 1px;
+   border-right:2px rgb(0, 0, 0);
+   border-bottom:2px rgb(0, 0, 0);
+
+}
+.subir{
+   border-top: rgb(255, 255, 255) 1px solid;
+   text-decoration: none;
+   border-right: white 1px solid;
+   padding: 1px;
+   font-size: 120%;
+}
